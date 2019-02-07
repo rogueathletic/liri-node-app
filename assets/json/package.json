@@ -1,0 +1,32 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "ucsd full stack class project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogueathletic/liri-node-app.git"
+  },
+  "keywords": [
+    "git",
+    "liri",
+    "node",
+    "axios",
+    "spotify",
+    "api",
+    "bandsintown"
+  ],
+  "author": "jason schutz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogueathletic/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/rogueathletic/liri-node-app#readme",
+  "dependencies": {
+    "adios": "^2.0.0",
+    "axios": "^0.18.0"
+  }
+}
