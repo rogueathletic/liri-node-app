@@ -27,6 +27,6 @@
   "homepage": "https://github.com/rogueathletic/liri-node-app#readme",
   "dependencies": {
     "adios": "^2.0.0",
-    "axios": "^0.18.0"
+    "axios": "^0.21.1"
   }
 }
